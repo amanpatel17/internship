@@ -1,0 +1,9 @@
+.icon-hover:hover {
+    border-color: #14a44d !important;
+    background-color: white !important;
+    color: #14a44d !important;
+  }
+  
+  .icon-hover:hover i {
+    color: #14a44d !important;
+  }
